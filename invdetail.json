@@ -7,5 +7,16 @@
       "sno": "12234",
       "quantity": 1
     }]
+  },
+  {
+    "item": "ACC00002",
+    "quantity": 1
+  },{
+    "item": "ACC00003",
+    "quantity": 1,
+    "inventory": [{
+      "sno": "15131",
+      "quantity": 1
+    }]
   }]
 }]
