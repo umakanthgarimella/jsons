@@ -1,0 +1,11 @@
+[{
+  "customer": 14121,
+  "items": [{
+    "item": "ACC00001",
+    "quantity": 1,
+    "inventory": [{
+      "sno": "12234",
+      "quantity": 1
+    }]
+  }]
+}]
